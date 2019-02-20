@@ -1,0 +1,22 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+
+header {
+    position: fixed;
+    height: 100px;
+    background-color: red;
+    width: 960px;
+}
+
+#logo {
+    background-color: blue;
+    display: inline;
+}
+
+.navButton {
+    border: 2px black solid;
+    float: right;
+}
+
